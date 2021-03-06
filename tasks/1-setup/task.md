@@ -1,4 +1,27 @@
 ### Transfer task 1
+
+---
+
+- [Laying ground work](#laying-ground-work)
+  * [Goal](#goal)
+  * [ExMan Suite](#exman-suite)
+    + [Packer](#packer)
+      - [Get access](#get-access)
+      - [Understand](#understand)
+      - [Make Docker ready](#make-docker-ready)
+      - [Experiment](#experiment)
+  * [Converting requirements](#converting-requirements)
+    + [UML](#uml)
+    + [C4 Modelling](#c4-modelling)
+    + [PlantUML](#plantuml)
+      - [Exploring](#exploring)
+      - [Starting](#starting)
+      - [Combine our two tasks](#combine-our-two-tasks)
+      - [C4 library](#c4-library)
+
+---
+
+
 # Laying ground work
 
 ## Goal
